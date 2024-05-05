@@ -6,8 +6,7 @@ export default function GenralComponent() {
     return (
         <div>
            <Pragraph/>
-            <Title/>
-          
+          <Title>This is the new text</Title>
         </div>
        
     )
